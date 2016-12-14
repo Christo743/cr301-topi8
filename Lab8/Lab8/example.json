@@ -1,0 +1,22 @@
+{
+    "id": "40",
+    "name": "chris",
+    "dateOfBirth": "today",
+    "country": "UK",
+    "email": "",
+    "gameData": {
+        "currentLevel": "0",
+        "remainingLives": "0",
+        "bulletCount": "0",
+        "maxLevelReached": "0",
+        "levelScore": [
+            "0"
+        ]
+    },
+    "preference": {
+        "language": "",
+        "volumelevel": "0",
+        "graphic": "",
+        "difficulty": "0"
+    }
+}
